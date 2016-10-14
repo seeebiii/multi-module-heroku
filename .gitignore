@@ -1,0 +1,8 @@
+# intellij files
+.idea
+*.iml
+out
+gen
+
+# any target directory
+*/target
